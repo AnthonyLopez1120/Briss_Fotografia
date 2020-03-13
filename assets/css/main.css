@@ -1112,3 +1112,7 @@
 		body.is-ie #wrapper {
 			height: 100%;
 		}
+
+		.title{
+			font-size: 1rem;
+		}
