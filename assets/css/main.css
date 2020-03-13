@@ -923,7 +923,9 @@
 		text-align: center;
 		width: 27em;
 	}
-
+	.paddingdiv{
+		padding-bottom: 5%;
+	}
 		#main .avatar {
 			position: relative;
 			display: block;
